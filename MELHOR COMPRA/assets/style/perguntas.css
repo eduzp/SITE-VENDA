@@ -1,0 +1,90 @@
+.question1 {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0
+  }
+  
+  .question1 input,
+  .question1 .answer { display: none }
+  
+  .question1 label {
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    width: 100%
+  }
+  
+  .question1 input:checked ~ .answer {
+    display: block
+  }
+  .question2 {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0
+  }
+  
+  .question2 input,
+  .question2 .answer { display: none }
+  
+  .question2 label {
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    width: 100%
+  }
+  
+  .question2 input:checked ~ .answer {
+    display: block
+  }
+  .question3 {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0
+  }
+  
+  .question3 input,
+  .question3 .answer { display: none }
+  
+  .question3 label {
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    width: 100%
+  }
+  
+  .question3 input:checked ~ .answer {
+    display: block
+  }
+  .question4 {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0
+  }
+  
+  .question4 input,
+  .question4 .answer { display: none }
+  
+  .question4 label {
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    width: 100%
+  }
+  
+  .question4 input:checked ~ .answer {
+    display: block
+  }
+  .question5 {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0
+  }
+  
+  .question5 input,
+  .question5 .answer { display: none }
+  
+  .question5 label {
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    width: 100%
+  }
+  
+  .question5 input:checked ~ .answer {
+    display: block
+  }
